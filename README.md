@@ -1,4 +1,4 @@
-ok this is the readme is it ok
+
 # Quantum Bookstore
 
 A simple Java project that simulates a small bookstore system with support for physical books, digital books, and showcase items. The project demonstrates clean object-oriented design using inheritance, service abstraction, and custom exception handling.
